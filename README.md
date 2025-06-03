@@ -4,7 +4,7 @@
 To gain hands-on familarity with Shodan and WHOIS. This lab will be carried out in a controlled environment, using a cloud server with Apache2 installed.
 
 ### Skills Learned
-- Using Shodan and applying the various search filters
+- Using Shodan and its search filters
 - Using WHOIS, through web browser and CLI
 
 ### Tools Used
